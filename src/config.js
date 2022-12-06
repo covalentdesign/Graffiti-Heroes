@@ -16,7 +16,7 @@ export const CONFIG = {
     "timeseries_chart": true,
 
     // 6. (Optional) Set your banner image
-    "banner_picture": "assets/MEET-HEROES.jpg",
+    "banner_picture": "",
   },
 
   // Supported networks - just for your reference
