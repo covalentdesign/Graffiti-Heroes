@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Graffiti-Heroes/static/css/main.e1baeaaf.chunk.css",
-    "main.js": "/Graffiti-Heroes/static/js/main.ffafb149.chunk.js",
-    "main.js.map": "/Graffiti-Heroes/static/js/main.ffafb149.chunk.js.map",
+    "main.js": "/Graffiti-Heroes/static/js/main.ae06cc07.chunk.js",
+    "main.js.map": "/Graffiti-Heroes/static/js/main.ae06cc07.chunk.js.map",
     "runtime-main.js": "/Graffiti-Heroes/static/js/runtime-main.42e887d0.js",
     "runtime-main.js.map": "/Graffiti-Heroes/static/js/runtime-main.42e887d0.js.map",
     "static/js/2.b1e7d116.chunk.js": "/Graffiti-Heroes/static/js/2.b1e7d116.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.42e887d0.js",
     "static/js/2.b1e7d116.chunk.js",
     "static/css/main.e1baeaaf.chunk.css",
-    "static/js/main.ffafb149.chunk.js"
+    "static/js/main.ae06cc07.chunk.js"
   ]
 }
