@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/nft-dashboard-template/static/css/main.f48c2a0c.chunk.css",
-    "main.js": "/nft-dashboard-template/static/js/main.c6422d59.chunk.js",
-    "main.js.map": "/nft-dashboard-template/static/js/main.c6422d59.chunk.js.map",
-    "runtime-main.js": "/nft-dashboard-template/static/js/runtime-main.c210edee.js",
-    "runtime-main.js.map": "/nft-dashboard-template/static/js/runtime-main.c210edee.js.map",
-    "static/js/2.9b171a78.chunk.js": "/nft-dashboard-template/static/js/2.9b171a78.chunk.js",
-    "static/js/2.9b171a78.chunk.js.map": "/nft-dashboard-template/static/js/2.9b171a78.chunk.js.map",
-    "index.html": "/nft-dashboard-template/index.html",
-    "static/css/main.f48c2a0c.chunk.css.map": "/nft-dashboard-template/static/css/main.f48c2a0c.chunk.css.map",
-    "static/js/2.9b171a78.chunk.js.LICENSE.txt": "/nft-dashboard-template/static/js/2.9b171a78.chunk.js.LICENSE.txt",
-    "static/media/Back.8af6b2fe.svg": "/nft-dashboard-template/static/media/Back.8af6b2fe.svg",
-    "static/media/App.css": "/nft-dashboard-template/static/media/alert.6e5425f9.svg",
-    "static/media/background.be7e30c5.png": "/nft-dashboard-template/static/media/background.be7e30c5.png",
-    "static/media/banner.e7e48588.png": "/nft-dashboard-template/static/media/banner.e7e48588.png",
-    "static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif": "/nft-dashboard-template/static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif",
-    "static/media/logo.00ecc9d5.svg": "/nft-dashboard-template/static/media/logo.00ecc9d5.svg"
+    "main.css": "/Graffiti-Heroes/static/css/main.e1baeaaf.chunk.css",
+    "main.js": "/Graffiti-Heroes/static/js/main.ffafb149.chunk.js",
+    "main.js.map": "/Graffiti-Heroes/static/js/main.ffafb149.chunk.js.map",
+    "runtime-main.js": "/Graffiti-Heroes/static/js/runtime-main.42e887d0.js",
+    "runtime-main.js.map": "/Graffiti-Heroes/static/js/runtime-main.42e887d0.js.map",
+    "static/js/2.b1e7d116.chunk.js": "/Graffiti-Heroes/static/js/2.b1e7d116.chunk.js",
+    "static/js/2.b1e7d116.chunk.js.map": "/Graffiti-Heroes/static/js/2.b1e7d116.chunk.js.map",
+    "index.html": "/Graffiti-Heroes/index.html",
+    "static/css/main.e1baeaaf.chunk.css.map": "/Graffiti-Heroes/static/css/main.e1baeaaf.chunk.css.map",
+    "static/js/2.b1e7d116.chunk.js.LICENSE.txt": "/Graffiti-Heroes/static/js/2.b1e7d116.chunk.js.LICENSE.txt",
+    "static/media/Back.8af6b2fe.svg": "/Graffiti-Heroes/static/media/Back.8af6b2fe.svg",
+    "static/media/App.css": "/Graffiti-Heroes/static/media/alert.6e5425f9.svg",
+    "static/media/background.be7e30c5.png": "/Graffiti-Heroes/static/media/background.be7e30c5.png",
+    "static/media/banner.e7e48588.png": "/Graffiti-Heroes/static/media/banner.e7e48588.png",
+    "static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif": "/Graffiti-Heroes/static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif",
+    "static/media/logo.00ecc9d5.svg": "/Graffiti-Heroes/static/media/logo.00ecc9d5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c210edee.js",
-    "static/js/2.9b171a78.chunk.js",
-    "static/css/main.f48c2a0c.chunk.css",
-    "static/js/main.c6422d59.chunk.js"
+    "static/js/runtime-main.42e887d0.js",
+    "static/js/2.b1e7d116.chunk.js",
+    "static/css/main.e1baeaaf.chunk.css",
+    "static/js/main.ffafb149.chunk.js"
   ]
 }
